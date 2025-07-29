@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Mahamudul Hasan
 
 🚀 About Me
 I love to work with different sectors and always seeking a challenging position where my strengths of creativity, strategic marketing, and business analytics are utilized and maximized to achieve brand goals and drive revenue.🚀Let's connect for impactful business solutions!🌟
