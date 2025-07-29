@@ -2,9 +2,6 @@
 #### Tracking Expert
 ![Tracking Expert](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/517601864_122157050696473145_5563037805658345490_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHVkGmj2OKDtoRGJBLo_BIVrEBAQDJ6y1qsQEBAMnrLWhX2lMoUt8UwpMNAyFkGiWrDSTtxuy3NMgnI09JtyOiV&_nc_ohc=rwfxpTa_DyEQ7kNvwH3VvAk&_nc_oc=AdnAfXLqsiwxU5mbLbL9HcM3wNzZzmRLd3NgZ36E8eDDk0q7V3KiLGKAtK-Fsamo1Kk&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=d1XbIN8hdQ2SynFN_RMjUw&oh=00_AfQ94GSiM-KXYDKd3HcX3nLLLNEUcuuhU9GF-VK_vnRAkA&oe=688DE626)
 
-👋 𝗪𝗵𝗼 𝗮𝗺 𝗜?
-Hey, I’m Mahamudul Hasan!
-
 I talk about everything related to Facebook Ads and Server-Side Tracking, helping you track paid ad conversions for up to 3x better performance.
 
 🔍 What I do:
@@ -20,7 +17,7 @@ I ensure that 100% of your conversions are tracked accurately and delivered to y
 
 🎯 Want to fix your tracking & scale your results?
 📩 DM me today — Let’s grow smart!
-🌐 Website / Portfolio: mahamudulhasan.me
+🌐 Website / Portfolio: https://mahamudulhasan.me
 💬 Client Feedback: https://www.facebook.com/mahamudulhasanmarketer/reviews
 
 Skills: Server Side Tracking |  Google Tag Manager |  Conversion Tracking |  Google Analytics 4
